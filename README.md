@@ -33,7 +33,7 @@ The Replacing Books page of the Dewey Decimal Game offers the following features
 ## Installation
 To run the Dewey Decimal Game, follow these steps:
 
-1. Clone or download the project repository from [GitHub](https://github.com/your-github-repository-url).
+1. Clone or download the project repository from [GitHub]([https://github.com/your-github-repository-url](https://github.com/St10084497/Prog3B_TaskOne.git)).
 
 2. Open the project in Visual Studio 2019.
 
